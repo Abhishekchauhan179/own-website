@@ -8,7 +8,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="image/logo.png"
+                            src="https://ibb.co/M2wVSZT"
                             className="mr-3 h-12"
                             alt="Logo"
                         />
